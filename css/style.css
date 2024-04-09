@@ -6,6 +6,9 @@
     gap: 0px;
     opacity: 0px;
 }
+.body{
+    width: 1024px;
+}
 
 .header{
     background-color: #2B4074;
@@ -3376,6 +3379,9 @@ z-index: -1;
         gap: 0px;
         opacity: 0px;
 
+    }
+    .body{
+        width: 320px;
     }
 
 }
